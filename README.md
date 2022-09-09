@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Sentiment Analysis**
 
-- 🌱 I’m currently learning **Streamlit**
+- 🌱 I’m currently learning **C++ with Data stuctures and algorithms**
 
-- 💬 Ask me about **Python, SQL, Tableau, Streamlit, MATLAB**
+- 💬 Ask me about **Python, SQL, C++, Machine Learning, NLP**
 
 - 📫 How to reach me **fozanazhar28@gmail.com**
 
