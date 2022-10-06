@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **fozanazhar28@gmail.com**
 
-- ⚡ Fun fact **Caffeine's best friend :)**
+- ⚡ My Latest Technical Article  **https://www.linkedin.com/feed/update/urn:li:activity:6983407100936810496/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fozanazhar28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fozanazhar28" height="30" width="40" /></a>
