@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/fozanazhar28" target="blank"><img src="https://img.shields.io/twitter/follow/fozanazhar28?logo=twitter&style=for-the-badge" alt="fozanazhar28" /></a> </p>
 
-- 🔭 I’m currently working on **Sentiment Analysis**
+- 🔭 I’m currently working on **Retail store object detection using deep learning techniques**
 
 - 🌱 I’m currently learning **C++ with Data stuctures and algorithms**
 
