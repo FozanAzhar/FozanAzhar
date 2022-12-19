@@ -1,6 +1,6 @@
 ![MaterHead](https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Fozan Mohammed Azhar</h1>
-<h3 align="center"> ML/AI enthusiast</h3>
+<h3 align="center"> Computer Science undergrad </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fozanazhar&label=Profile%20views&color=0e75b6&style=flat" alt="fozanazhar" /> </p>
 
