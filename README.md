@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/fozanazhar28" target="blank"><img src="https://img.shields.io/twitter/follow/fozanazhar28?logo=twitter&style=for-the-badge" alt="fozanazhar28" /></a> </p>
 
-- 🔭 I’m currently working on **Retail store object detection using deep learning techniques**
+- 🔭 I’m currently working on **Building Deep Learning Models**
 
 - 🌱 I’m currently learning **C++ with Data stuctures and algorithms**
 
-- 💬 Ask me about **Python, SQL, C++, Machine Learning, NLP**
+- 💬 Ask me about **Python, Machine Learning, Deep Leanring, Computer Vison, AI, NLP**
 
 - 📫 How to reach me **fozanazhar28@gmail.com**
 
