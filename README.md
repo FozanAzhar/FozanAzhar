@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/fozanazhar28" target="blank"><img src="https://img.shields.io/twitter/follow/fozanazhar28?logo=twitter&style=for-the-badge" alt="fozanazhar28" /></a> </p>
 
-- 🔭 I’m currently working on **Building Deep Learning Models**
+- 🔭 I’m currently working on **Building LLM's on Langchain and storage on Vector Databases**
 
-- 🌱 I’m currently learning **C++ with Data stuctures and algorithms**
+- ⚡ I’m currently studying ** Deep Learning Models **
 
-- 💬 Ask me about **Python, Machine Learning, Deep Leanring, Computer Vison, AI, NLP**
+- 🛠️ Technical skills **Python, Machine Learning, Deep Leanring, Computer Vison, AI, NLP, Langchain, LLM's**
 
 - 📫 How to reach me **fozanazhar28@gmail.com**
 
-- ⚡ My Latest Technical Article  **https://www.linkedin.com/feed/update/urn:li:activity:6983407100936810496/**
+- 📝 My Latest Publication  **https://zenodo.org/record/7969773**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fozanazhar28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fozanazhar28" height="30" width="40" /></a>
