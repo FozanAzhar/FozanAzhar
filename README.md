@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Building Gen AI solutions with Data**
 
-- ⚡ I’m currently learning  ** MLops **
+- ⚡ I’m currently learning  **MLops**
 
 - 🛠️ Technical skills **Python, Machine Learning, Deep Leanring, Computer Vison, AI, NLP, Flask, Langchain, RAGs**
 
