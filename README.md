@@ -1,16 +1,16 @@
 ![MaterHead](https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Fozan Mohammed Azhar</h1>
-<h3 align="center"> Computer Science Undergrad </h3>
+<h3 align="center"> Masters Student at University of Newcastle </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fozanazhar&label=Profile%20views&color=0e75b6&style=flat" alt="fozanazhar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fozanazhar28" target="blank"><img src="https://img.shields.io/twitter/follow/fozanazhar28?logo=twitter&style=for-the-badge" alt="fozanazhar28" /></a> </p>
 
-- 🔭 I’m currently working on **Building LLM's on Langchain and storage on Vector Databases**
+- 🔭 I’m currently working on **Building Gen AI solutions with Data**
 
-- ⚡ I’m currently studying ** Deep Learning Models **
+- ⚡ I’m currently  ** **
 
-- 🛠️ Technical skills **Python, Machine Learning, Deep Leanring, Computer Vison, AI, NLP, Langchain, LLM's**
+- 🛠️ Technical skills **Python, Machine Learning, Deep Leanring, Computer Vison, AI, NLP, Flask, Langchain, RAGs**
 
 - 📫 How to reach me **fozanazhar28@gmail.com**
 
