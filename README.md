@@ -1,31 +1,52 @@
-![MaterHead](https://www.isical.ac.in/~cvpr/ICDARWML21/images/deepLearning.gif)
-<h1 align="center">Hi 👋, I'm Fozan Mohammed Azhar</h1>
-<h3 align="center"> Masters Student at University of Newcastle </h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fozanazhar&label=Profile%20views&color=0e75b6&style=flat" alt="fozanazhar" /> </p>
+# Hey, I'm Fozan 👋
 
-<p align="left"> <a href="https://twitter.com/fozanazhar28" target="blank"><img src="https://img.shields.io/twitter/follow/fozanazhar28?logo=twitter&style=for-the-badge" alt="fozanazhar28" /></a> </p>
-
-- 🔭 I’m currently working on **Building Gen AI solutions with Data**
-
-- ⚡ I’m currently learning  **MLops**
-
-- 🛠️ Technical skills **Python, Machine Learning, Deep Leanring, Computer Vison, AI, NLP, Flask, Langchain, RAGs**
-
-- 📫 How to reach me **fozanazhar28@gmail.com**
-
-- 📝 My Latest Publication  **https://zenodo.org/record/7969773**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fozanazhar28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fozanazhar28" height="30" width="40" /></a>
-<a href=https://www.linkedin.com/in/fozan-azhar-2188a122a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYoY6hDI6Tgu2eqArAGXewg%3D%3D/r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fozan azhar" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/fozan-azhar-2188a122a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fozanazhar28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://zenodo.org/record/7969773"><img src="https://img.shields.io/badge/Research-blue?style=for-the-badge&logo=academia&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fozanazhar&show_icons=true&locale=en&layout=compact" alt="fozanazhar" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fozanazhar&show_icons=true&locale=en" alt="fozanazhar" /></p>
+### About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fozanazhar&" alt="fozanazhar" /></p>
+- Masters in IT @ University of Newcastle · International Excellence Scholar 
+- I build GenAI systems - LLM agents, RAG pipelines, agentic workflows
+- Currently diving deeper into multi-agent systems and cloud-native deployments
+- Newcastle, NSW, Australia
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,react,ts,nodejs,aws,docker,git,linux,mysql&perline=5" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Weaviate-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+---
+
+### Publications
+
+- 📄 *Design and Implementation of Retail Store Object Detection using YOLO* - HBRP Journal
+- 🎤 *A Survey on Deep Learning Techniques for Object Detection* - RAIET 2023
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fozanazhar&style=flat-square&color=6C63FF"/>
+</div>
